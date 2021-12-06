@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Majeed</h1>
+<h1 align="center">Hi 👋, I'm Aryan </h1>
 <h3 align="center">Software developer from Iraq</h3>
 
 - 📫 reach me out I guess🤷‍♂️ : **aryanmajid97@gmail.com**
