@@ -25,4 +25,4 @@
 **Reach me out** 
 
 - Email: aryanmajid97@gmail.com
-- Website: https://aryanmajeed.vercel.app/
+- Website: https://aryankarim.vercel.app/
