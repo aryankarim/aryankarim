@@ -4,7 +4,7 @@
 **Currently busy with:**
 ```
 - learning neovim
-- learning cypress
+- learning cypress (e2e testing)
 - developing my personal website
 ```
 
