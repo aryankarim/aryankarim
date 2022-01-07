@@ -5,7 +5,9 @@
 ```
 - learning neovim
 - learning cypress (e2e testing)
+- learning typescript
 - developing my personal website
+- migrating a legacy javascript project to typescript
 ```
 
 **Languages:**
