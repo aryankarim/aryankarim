@@ -3,11 +3,11 @@
 
 **Currently busy with:**
 ```
-- learning neovim
-- learning cypress (e2e testing)
-- learning typescript
+- learning Neovim
+- learning Cypress (e2e testing)
+- learning TypeScript
 - developing my personal website
-- migrating a legacy javascript project to typescript
+- migrating a legacy JavaScript project to TypeScript
 ```
 
 **Languages:**
