@@ -6,8 +6,8 @@
 - learning Neovim
 - learning Cypress (e2e testing)
 - learning TypeScript
-- developing my personal website
 - migrating a legacy JavaScript project to TypeScript
+- mangaging a freelance project
 ```
 
 **Languages:**
