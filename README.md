@@ -4,24 +4,23 @@
 **Currently busy with:**
 ```
 - learning Neovim
-- learning Cypress (e2e testing)
-- learning TypeScript
+- learning Cypress (E2E testing)
+- learning CI with CircleCI
 - migrating a legacy JavaScript project to TypeScript
-- mangaging a freelance project
+- managing a freelance project
 ```
 
 **Languages:**
-
 ```
- JavaScript, Java, PHP, MySQL, HTML, CSS, XML
+ TypeScript, JavaScript, Java, HTML, CSS, XML
 ```
-**Techs I use:**
+**Techs I frequently use:**
 ```
- React, Next, Redux, NodeJS, ExpressJS, MongoDB(Mongoose), Firebase, Git, GitHub, Chakra-UI, Tailwind
+ React, Next, Redux, NodeJS, ExpressJS, Postman, MongoDB, MySQL, Git, GitHub, Chakra-UI, Tailwind
 ```
 **Other tools:**
 ```
- Figma, Adobe Photoshop, Adobe Illustrator, Adobe Premiere
+ Firebase, Vue, Figma, Adobe Photoshop, Adobe Illustrator, Adobe Premiere
 ```
 
 **Reach me out** 
