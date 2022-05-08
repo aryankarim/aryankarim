@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Aryan </h2>
-<h4 align="center">Software developer from the Middle East</h4>
+# Aryan Karim
+#### Software developer from the Middle East
 
 currently busy with:
 ```
