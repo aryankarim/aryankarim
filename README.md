@@ -6,6 +6,12 @@ currently busy with:
 Next.js
 React.js
 TypeScript
+TypeORM
+Postgres
+GraphSQL
+Node.js
+Express.js
+apollo-server
 ```
 
 - Email: aryanmajid97@gmail.com
