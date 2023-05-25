@@ -7,13 +7,7 @@ Next.js
 React.js
 Nuxt.js
 Vue.js
-TypeScript
-TypeORM
-Postgres
-GraphSQL
-Node.js
-Express.js
-apollo-server
+Three.js
 ```
 
 - Email: aryanmajid97@gmail.com
