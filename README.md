@@ -5,6 +5,8 @@ currently busy with:
 ```
 Next.js
 React.js
+Nuxt.js
+Vue.js
 TypeScript
 TypeORM
 Postgres
