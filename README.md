@@ -11,4 +11,4 @@ Three.js
 ```
 
 - Email: aryanmajid97@gmail.com
-- Website: https://aryankarim.vercel.app/
+- Website: www.aryankarim.lol
