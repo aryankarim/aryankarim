@@ -3,11 +3,12 @@
 
 currently busy with:
 ```
-Next.js
-React.js
-Nuxt.js
 Vue.js
+React.js
 Three.js
+Nuxt.js
+Next.js
+Nest.js
 ```
 
 - Email: aryanmajid97@gmail.com
