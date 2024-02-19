@@ -5,7 +5,7 @@ currently busy with:
 ```
 Vue.js
 React.js
-Three.js
+Three.js + WebGL
 Nuxt.js
 Next.js
 Nest.js
